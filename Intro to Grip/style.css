@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+.home{
+    background: url(Home.jpg) no-repeat;
+    background-size: cover;
+    height: 97vh;
+}
+
+.heading0{
+    font-size: large;
+    font-family: "sans-serif";
+    color: azure;
+    text-align: left;
+    padding-left: 675px;
+    padding-top: 50px;
+}
+.heading1{
+    font-size: x-large;
+    font-family: "sans-serif";
+    color: azure;
+    text-align: left;
+    padding-left: 625px;
+}
+.name{
+    font-size: medium;
+    font-family: "sans-serif";
+    color: azure;
+    text-align: left;
+    padding-left: 625px;
+    padding-top: 20px;
+}
+.buttonSec{
+    padding-top: 30px;
+    padding-left: 800px;
+}
+.button{
+    background-color: rgb(214, 203, 203);
+    border: none;
+    color: black;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+}
+.button:hover{
+    box-shadow: 3px 3px rgb(102, 90, 90);
+
+}
